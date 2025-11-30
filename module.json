@@ -1,0 +1,12 @@
+{
+    "metamodule": false,
+    "summary": "适用于Mediatek_Mali_GPU的GPU动态调速器，优化高负载场景下的功耗与性能平衡",
+    "sourceUrl": "https://github.com/Seyud/Mediatek_Mali_GPU_Governor",
+    "additionalAuthors": [
+        {
+            "type": "add",
+            "name": "Seyud",
+            "link": "https://github.com/Seyud"
+        }
+    ]
+}
