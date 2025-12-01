@@ -7,7 +7,7 @@
 天玑 GPU 调速器（Mediatek Mali GPU Governor）是一个专为联发科处理器设计的先进 GPU 调速器。采用 **Rust 语言** 开发的高性能核心引擎，通过智能监控 GPU 负载并动态调整频率，在游戏体验和功耗平衡之间达到最佳平衡。模块集成了现代化的 **WebUI 管理界面** 和 **完整的游戏模式检测**，为用户提供优秀的 GPU 调速解决方案。
 
 [![Version](https://img.shields.io/github/v/release/Seyud/Mediatek_Mali_GPU_Governor?logo=github)](https://github.com/Seyud/Mediatek_Mali_GPU_Governor/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/Seyud/Mediatek_Mali_GPU_Governor/total?logo=github&logoColor=green)](https://github.com/Seyud/Mediatek_Mali_GPU_Governor/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/total?logo=github&logoColor=green)](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/releases)
 [![Language](https://img.shields.io/badge/language-Rust-orange?logo=rust&logoColor=orange)](https://www.rust-lang.org/)
 [![Telegram](https://img.shields.io/badge/chat-Telegram-2CA5E0?logo=telegram&logoColor=87CEEB)](https://t.me/MTK_GPU)
 [![QQ群](https://img.shields.io/badge/QQ群-719872309-12B7F5?logo=qq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=zwOHClW5YTIZobOTsqvF6lBaACPvS7%2F2Y0s%2FpQadAMss5d2nxcr46fmsm%2FFreVjt&busi_data=eyJncm91cENvZGUiOiI3MTk4NzIzMDkiLCJ0b2tlbiI6IjhQNUhYM1M4NUs4bFVwQmNsODRrUU1Xc0phR3dra1RUYnE0S0tMVFNzV3JUU2s3elgvSFRyUXJQdWtEQ1NVYSsiLCJ1aW4iOiIxMTA1NzgzMDMzIn0%3D&data=VgJU9DuiAPqB3ocg4Zlh8UShvQmDEgEfH4wvqCVXWOD8qcBSzYDPQuwUKVgLOIzZ-CWhtV69fyTHD4Q0GqWWKw&svctype=4&tempid=h5_group_info)
