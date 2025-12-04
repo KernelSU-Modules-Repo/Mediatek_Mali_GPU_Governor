@@ -59,12 +59,12 @@ Dimensity GPU Governor (Mediatek Mali GPU Governor) is an advanced GPU governor 
 
 ## Documentation Navigation 📚
 
-- [Installation Requirements](installation.md) - Device requirements and WebUI requirements
-- [Configuration Files](configuration.md) - Custom configuration, GPU frequency table, game list, and interactive control menu
-- [Logging System](logging.md) - Log file description and log management
-- [Supported Devices](supported-devices.md) - Compatible device list
-- [WebUI Interface](webui.md) - WebUI features and UI layout
-- [FAQ](faq.md) - Frequently asked questions
+- [Installation Requirements](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/en/installation.md) - Device requirements and WebUI requirements
+- [Configuration Files](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/en/configuration.md) - Custom configuration, GPU frequency table, game list, and interactive control menu
+- [Logging System](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/en/logging.md) - Log file description and log management
+- [Supported Devices](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/en/supported-devices.md) - Compatible device list
+- [WebUI Interface](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/en/webui.md) - WebUI features and UI layout
+- [FAQ](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/en/faq.md) - Frequently asked questions
 
 ## Acknowledgements 🙏
 

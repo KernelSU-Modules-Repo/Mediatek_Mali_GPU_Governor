@@ -46,12 +46,12 @@
 
 ## 文档导航 📚
 
-- [安装要求](installation.md) - 设备要求和 WebUI 功能要求
-- [配置文件](configuration.md) - 自定义配置、GPU 频率表、游戏列表和交互式控制菜单
-- [日志系统](logging.md) - 日志文件说明和日志管理
-- [支持的设备](supported-devices.md) - 兼容的设备列表
-- [WebUI 界面](webui.md) - WebUI 功能特性和界面布局
-- [常见问题](faq.md) - 常见问题解答
+- [安装要求](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/installation.md) - 设备要求和 WebUI 功能要求
+- [配置文件](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/configuration.md) - 自定义配置、GPU 频率表、游戏列表和交互式控制菜单
+- [日志系统](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/logging.md) - 日志文件说明和日志管理
+- [支持的设备](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/supported-devices.md) - 兼容的设备列表
+- [WebUI 界面](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/webui.md) - WebUI 功能特性和界面布局
+- [常见问题](https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor/blob/main/faq.md) - 常见问题解答
 
 ## 致谢 🙏
 
